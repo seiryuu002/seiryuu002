@@ -1,1 +1,1 @@
-!![Apurv's GitHub stats](https://github-readme-stats.vercel.app/api?username=seiryuu002&show_icons=true&theme=dark)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seiryuu002&hide=jupyter%20notebook&layout=compact&theme=dark&langs_count=8)](https://github.com/seiryuu002/github-readme-stats)
+
