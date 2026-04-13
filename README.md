@@ -1,4 +1,4 @@
-## Hi, I'm Apurv Kumar 👋
+## Hi, I'm Apurv Kumar
 
 Backend engineer specialising in C# · ASP.NET Core · Clean Architecture
 
